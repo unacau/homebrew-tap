@@ -1,6 +1,6 @@
 cask "xomsky" do
-  version "1.1.5"
-  sha256 "4aaa55fd871e493a9aaaa4a73e595f1c259f8c28d09812e13f8ba0322f16d540"
+  version "1.1.6"
+  sha256 "68b53eff2896fc68199d49d7a81f5038d0bf3c72db1d0a01f91581a81fa9c4ac"
 
   url "https://github.com/unacau/mac-productivity-suite/releases/download/v#{version}/Xomsky.dmg"
   name "Xomsky"
